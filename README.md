@@ -15,12 +15,12 @@ pip install -r requirements.txt
 
 Run the script with the following command:
 ```bash
-python script.py -s "your search term" -p number_of_pages
+python scrpr.py -s "your search term" -p number_of_pages
 ```
 
 Example:
 ```bash
-python script.py -s "something idk :P" -p 5
+python scrpr.py -s "something idk :P" -p 5
 ```
 
 ## Adding Custom Patterns
