@@ -9,7 +9,7 @@ Python script for analyzing documents on Scribd using customizable regex pattern
 ```bash
 pip install -r requirements.txt
 ```
-3. Install chromedriver in the pwd, I have one here but its prolly old by now
+3. Install chromedriver in the pwd, I have one here but its prolly old by now and for windows, it checks if it needs .exe or no, But I havent tested on linux so ymmv
 
 ## Usage
 
@@ -112,7 +112,7 @@ The evidence files contain:
 3. Use regex testing tools to validate patterns
 4. Consider common variations in formatting
 5. Handle potential special characters
-7. Consider multilingual support needed :)
+7. Consider if multilingual support needed :)
 
 ## License
 
