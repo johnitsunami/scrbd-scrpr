@@ -9,7 +9,7 @@ Python script for analyzing documents on Scribd using customizable regex pattern
 ```bash
 pip install -r requirements.txt
 ```
-3. Install chromedriver in this folder, I have one here but its prolly old by now
+3. Install chromedriver in the pwd, I have one here but its prolly old by now
 
 ## Usage
 
