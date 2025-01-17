@@ -1,6 +1,6 @@
 # Scrbd-Scrpr
 
-Python script for analyzing documents on Scribd using customizable regex patterns. 
+Python script for analyzing documents on Scribd using customizable regex patterns. This is for educational purposes only, if you misuse this its on you, dont be a jerk.
 
 ## Installation
 
@@ -20,7 +20,7 @@ python script.py -s "your search term" -p number_of_pages
 
 Example:
 ```bash
-python script.py -s "sensitive document idk :P" -p 5
+python script.py -s "something idk :P" -p 5
 ```
 
 ## Adding Custom Patterns
